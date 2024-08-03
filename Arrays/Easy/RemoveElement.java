@@ -1,4 +1,4 @@
-package Easy.Arrays;
+package Arrays.Easy;
 
 /**
  *  27. Remove Element
